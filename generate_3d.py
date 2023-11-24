@@ -39,7 +39,7 @@ if __name__=="__main__":
 
     # for sfm
     parser.add_argument('--database_name', type=str, default='custom/obj', required=True)
-    parser.add_argument('--colmap_path', type=str, 
+    parser.add_argument('--colmap_path', type=str, required=True,
                             default=r'F:/Downloads/COLMAP-3.8-windows-cuda/COLMAP-3.8-windows-cuda/bin/colmap.exe')
     # for sfm
     # parser.add_argument('--que_database', type=str, default='linemod/cat')
