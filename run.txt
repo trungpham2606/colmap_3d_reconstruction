@@ -1,0 +1,1 @@
+G:\python3.8\python generate_3d.py --input E:\github_project\Gen6D-1\data\custom\trung\images --output E:\github_project\colman_generate_code\data --database_name custom/obj
